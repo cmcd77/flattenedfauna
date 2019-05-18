@@ -14,9 +14,6 @@ Filename:
 Short description
 
 
-If data set includes multiple files related to one another, include relationship here:
-
-
 Principal Investigator Contact Information
 Name:
 Institution:
