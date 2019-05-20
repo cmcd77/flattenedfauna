@@ -1,3 +1,0 @@
-variableName,dataType,description,controlledVocabularyValues,valuesList,missingValuesExplanation,collectionMethods,cleaningOrAnonymization
-Weather,String,Weather at the time of discovery of the carcass,,"Cloudy, Sunny, Rain, Sleet, Partly Sunny, Partly Cloudy, Overcast, Downpour",Observer did not report,Observer recorded,Blank cells replaced with 'Null'
-Condition,String,Condition of the carcass,"Fresh, Eyes in tact, Eyes gone, Maggots present, Dried out","Fresh, Eyes in tact, Eyes gone, Maggots present, Dried out",Missing values are not allowed,Observer recorded,N/A
