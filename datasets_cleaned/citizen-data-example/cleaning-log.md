@@ -22,3 +22,5 @@ Converted all values in 'Temperature' variable to Fahrenheit
 Removed Sting characters in 'Temperature' variable
 
 Escaped all special characters
+
+Need to: Normalize town and county and habitat
