@@ -1,7 +1,7 @@
-#Cleaning Log
+#Cleaning Log#
 
-###Dataset: USARoadkillDataGarneau_2012-2015.csv
-###Download: http://epicollectserver.appspot.com/project.html?name=RoadkillGarneau
+###Dataset: USARoadkillDataGarneau_2012-2015.csv###
+###Download: http://epicollectserver.appspot.com/project.html?name=RoadkillGarneau###
 
 Removed observations with no latitude or longitude
 
