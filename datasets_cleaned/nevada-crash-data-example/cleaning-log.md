@@ -13,6 +13,8 @@ Replaced all empty cells of Numeric format with '-9999'
 
 Changed Data format to YYYY-MM-DD
 
+Converted UTM coordinates to decimal degrees using ArcGIS
+
 Escaped all special characters
 
 OpenRefine JSON:
