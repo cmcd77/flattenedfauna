@@ -21,6 +21,9 @@
 <dc:extent></dc:extent>
 <dc:FileFormat></dc:FileFormat>
 <dc:language>English</dc:language>
+<dc:source></dc:source>
+<dwc:taxon></dwc:taxon>
+<ddi:FundingInformation></ddi:FundingInformation>
 <dc:subject></dc:subject>
 
 </metadata>
