@@ -19,7 +19,7 @@ Escaped all special characters
 
 OpenRefine JSON:
 
-[
+```[
   {
     "op": "core/text-transform",
     "description": "Text transform on cells in column Crash_Severity using expression value.trim()",
