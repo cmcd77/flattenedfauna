@@ -27,7 +27,7 @@ Normalized State, County, Town, and Habitat in OpenRefine.
 
 OpenRefine JSON:
 
-``[
+```[
   {
     "op": "core/mass-edit",
     "description": "Mass edit cells in column State",
@@ -2714,4 +2714,4 @@ OpenRefine JSON:
       }
     ]
   }
-]``
+]```
