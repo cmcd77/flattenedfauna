@@ -8,4 +8,8 @@ Removed obervations of 'Poached' or 'Destroyed'
 
 Changed Date format to YYYY-MM-DD
 
+Changed Park abbreviation 'GNP' to 'Glacier National Park'
+
+Removed oberservations with no coordinates
+
 Converted coordinates from UTM to Latitude and Longitude using ArcGIS
