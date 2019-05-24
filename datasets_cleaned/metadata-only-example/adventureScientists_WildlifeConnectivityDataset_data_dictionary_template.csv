@@ -1,0 +1,14 @@
+To request data visit:,,,https://www.adventurescientists.org/access-data-sets.html,,,,
+,,,,,,,
+variableName,dataType,description,controlledVocabularyValues,valuesList,missingValuesExplanation,collectionMethods,cleaningOrAnonymization
+id,Integer,Unique id of observation,None,None,None,None,None
+time_observed_at,Date/Time,Date and time of observation,None,None,None,None,None
+url,String,"URI, web address of record",None,None,None,None,None
+image_url,String,"URI, web address of image",None,None,None,None,None
+description,String,Description of animal and observation in general,None,None,None,None,None
+latitude,Double,Latitude of event,None,None,None,None,None
+longitude,Double,Longitude of event,None,None,None,None,None
+species_guess,String,Observer's guess of species name,None,None,None,None,None
+scientific_name,String,scientific name of animal,None,None,None,None,None
+common_name,String,common name of animal,None,None,None,None,None
+iconic_taxon_name,String,High level taxon,None,"Reptilia, Aves, Mammalia, Insecta, Amphibia, Animalia, Arachnida, Actinopterygii, Fungi, Plantae, Mollusca",None,None,None
