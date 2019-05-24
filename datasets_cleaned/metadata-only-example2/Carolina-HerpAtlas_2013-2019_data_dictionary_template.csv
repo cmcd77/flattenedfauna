@@ -1,0 +1,30 @@
+DISCLAIMER: This file is only an example.,,,,,,,,
+ It may not be accurate.,,,,,,,,
+It was not directly provided for this project by the Carolina Herp Atlas.,,,,,,,,
+,,,,,,,,
+Request data from: ,,,https://www.carolinaherpatlas.org,,,,,
+,,,,,,,,
+,,,,,,,,
+variableName,dataType,description,controlledVocabularyValues,valuesList,missingValuesExplanation,collectionMethods,cleaningOrAnonymization,
+ID,String,,None,None,None,None,None,None
+UUID,Unique Identifier,,None,None,None,None,None,None
+Observer,String,"Name of observer; Last, First",None,None,None,None,None,None
+Date,Date,Date of observation,None,None,None,None,None,None
+Time,Time,Time of observation,None,None,None,None,None,None
+Taxon,String,Lowest possible identification,None,None,None,None,None,None
+Country,String,Country of observation,None,None,None,None,None,None
+" ""Level 1""",String,Location level one (usually state),None,None,None,None,None,None
+" ""Level 2""",String,Location level two (usually county),None,None,None,None,None,None
+Latitude,Double,Latitude of observation,None,None,None,None,None,None
+Longitude,Double,Longitude of observation,None,None,None,None,None,None
+Altitude,Integer,Altitude of observation,None,None,None,None,None,None
+Accuracy,Integer,Accuracy of altitude,None,None,None,None,None,None
+Datum,String,Datum for Latitude and Longitude values,None,"NAD83, WGS84",None,None,None,None
+Coordinate Source,String,Source of coordinates,None,"GPS, Google Earth",None,None,None,None
+Age,String,Age class of animal,None,"Juvenile, Adult",None,None,None,None
+Notes,String,Notes on observation,None,None,None,None,None,None
+Private Notes,String,Observer's private notes,None,None,None,None,None,None
+Hidden,Yes/No,Observer request to hide record from public,None,None,None,None,None,None
+Deceased,Yes/No,Was the animal deceased at the time of observation,None,None,None,None,None,None
+3rd Party,String,Was the sighting from a 3rd party?,None,None,None,None,None,None
+Vouchers,String,URI for image or record of the animal in observation,None,None,None,None,None,None
