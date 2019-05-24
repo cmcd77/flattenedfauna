@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+
+<metadata
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:dwc="http://rs.tdwg.org/dwc/terms/"
+	xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:dcat="http://www.w3.org/ns/dcat#">
+
+<dc:datasetName>adventureScientists_WildlifeConnectivityDataset</dc:datasetName>
+<dc:creator>https://www.adventurescientists.org/</dc:creator>
+<dcat:contactPoint>https://www.adventurescientists.org/access-data-sets.html</dcat:contactPoint>
+<dc:rightsHolder>https://www.adventurescientists.org/</dc:rightsHolder>
+<dwc:institutionID></dwc:institutionID>
+<dc:coverage.spatial>Global</dc:coverage.spatial>
+<dc:coverage.temporal>1989-</dc:coverage.temporal>
+<dc:description>Records for roadkilled animals collected by citizen scientists as part of a wildlife connectivity project</dc:description>
+<dwc:samplingProtocol>Observations are recorded by volunteers traveling regular routes</dwc:samplingProtocol>
+<dc:license></dc:license>
+<dc:identifier></dc:identifier>
+<dc:extent></dc:extent>
+<dc:FileFormat></dc:FileFormat>
+<dc:language>English</dc:language>
+<dc:source>https://www.adventurescientists.org/</dc:source>
+<dwc:taxon></dwc:taxon>
+<ddi:FundingInformation></ddi:FundingInformation>
+<dc:subject>Roadkill, citizen science</dc:subject>
+
+</metadata>
