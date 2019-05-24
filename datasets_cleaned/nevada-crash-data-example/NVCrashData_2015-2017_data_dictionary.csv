@@ -1,0 +1,56 @@
+variableName,dataType,description,controlledVocabularyValues,valuesList,missingValuesExplanation,collectionMethods,cleaningOrAnonymization
+OBJECTID,Interger,Record ID,None,None,None,None,None
+X,Double,UTM Easting,None,None,None,None,None
+Y,Interger,UTM Northing,None,None,None,None,None
+Latitude,Double,Latitude of event,Null,Null,None,None,None
+Longitude,Double,Longitude of event,Null,Null,None,None,None
+Date,Date/Time,Crash Date,None,None,None,None,None
+AnimalType,String,Type of Animal,"UNKNOWN, CATTLE, DEER, HORSE, BIG HORN SHEEP, BURRO, ELK, OTHER ANIMAL, ANTELOPE, BEAR, DOG/COYOTE, COYOTE, DOG, SHEEP, GOAT",None,None,None,None
+Crash_Severity,String,Severity of crash,None,None,None,None,None
+County,String,County,None,None,None,None,None
+Crash_Date_Original,Date/Time,Original crash date,None,None,None,None,Formatted
+Crash_Time_Original,Date/Time,Original crash time,None,None,None,None,None
+Crash_Time,Date/Time,Crast Time,None,None,None,None,Formatted
+Primary_Street,String,Street of crash,None,None,None,None,None
+Distance,Interger,Distance of crash,None,None,None,None,None
+Dir,String,Direction of crash,"E, W, N, S, NW, NE, SW, SE, Null",None,None,None,None
+Secondary_Street,String,Street of crash,None,None,None,None,None
+Weather,String,Weather of crash,"CLEAR, CLOUDY, RAIN, UNKNOWN, FOG, SMOG, SMOKE, SNOW, SEVERE CROSSWINDS, CLOUDY: RAIN, BLOWING SAND, SOIL, DIRT, SNOW, SLEET, HAIL (FREEZING RAIN OR DRIZZLE), CLOUDY: FOG, SMOG, SMOKE, Null, CLEAR: SNOW",None,None,None,None
+Fatalities,String,Fatalities of crash,None,None,None,None,None
+Injured,Interger,Injured of crash,None,None,None,None,None
+Property_Damage_Only,String,Only of crash,None,None,None,None,None
+Injury_Type,String,Type of crash,"Null, B, C, U, A, K, O, N",None,None,None,None
+Crash_Type,String,Type of crash,"NON-COLLISION, REAR-END, SIDESWIPE, OVERTAKING, ANGLE, HEAD-ON, UNKNOWN, SIDESWIPE, MEETING",None,None,None,None
+Total_Vehicles,Interger,Vehicles of crash,None,None,None,None,None
+V1_Type,String,Type of vehicle,None,None,None,None,None
+V1_Dir,String,Dir of vehicle,None,None,None,None,None
+V1_Driver_Age,Interger,Age of driver,None,None,None,None,None
+V1_Lane_Num,Interger,Lane number,None,None,None,None,None
+V1_Action,String,Action of crash,None,None,None,None,None
+V1_Driver_Factors,String,Driver factors,None,None,None,None,None
+V1_Driver_Distracted,String,Was the driver distracted,None,None,None,None,None
+V1_Vehicle_Factors,String,Vehicle factors,None,None,None,None,None
+V1_Most_Harmful_Event,String,Harmful event,None,None,None,None,None
+V1_All_Events,String,Events of crash,None,None,None,None,None
+V2_Type,String,Type of vehicle,None,None,None,None,None
+V2_Dir,String,Dir of vehicle,None,None,None,None,None
+V2_Driver_Age,String,Age of driver,None,None,None,None,None
+V2_Lane_Num,String,Lane number,None,None,None,None,None
+V2_Action,String,Action of crash,None,None,None,None,None
+V2_Driver_Factors,String,Driver factors,None,None,None,None,None
+V2_Driver_Distracted,String,Was the driver distracted,None,None,None,None,None
+V2_Vehicle_Factors,String,Vehicle factors,None,None,None,None,None
+V2_Most_Harmful_Event,String,Harmful event,None,None,None,None,None
+V2_All_Events,String,Events of crash,None,None,None,None,None
+First_Harmful_Event,String,First harmful event,None,None,None,None,None
+Nonmotorist_Factors,String,Nonmotorist factors in crash,None,None,None,None,None
+Factors_Roadway,String,Roadway factors,"Null, DRY, WET, SNOW, ICE",None,None,None,None
+Lighting,String,Lighting on road,"Null, DARK - NO LIGHTING, DAWN, DAYLIGHT, DARK - UNKNOWN LIGHTING, DARK - SPOT LIGHTING, DUSK, UNKNOWN, DARK - CONTINUOUS LIGHTING, DARK - NO ROADWAY LIGHTING",None,None,None,None
+HWY_Factors,String,Highway factors,None,None,None,None,None
+Agency,String,Agency handled crash,None,None,None,None,None
+Accident_Rec_Num,Interger,Accident record number,None,None,None,None,None
+Pedalcyclist,String,Was a cyclist involved,None,None,None,None,None
+Pedestrian,String,Was a pedestrian involved,None,None,None,None,None
+Motorcyclist,String,Was a motorcyclist involved,None,None,None,None,None
+CrashDateTimeUTC,Date/Time,Crash date and time,None,None,None,None,None
+GlobalID,String,GlobalID of record,None,None,None,None,None
