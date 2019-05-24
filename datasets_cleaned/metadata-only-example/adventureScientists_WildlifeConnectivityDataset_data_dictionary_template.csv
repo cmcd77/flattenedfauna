@@ -2,7 +2,7 @@ DISCLAIMER: This file is only an example.,,,,,,,
 It may not be accurate.,,,,,,,
 It was not directly provided for this project by Adventure Scientists.,,,,,,,
 ,,,,,,,
-To request data visit: ,,,https://www.adventurescientists.org/access-data-sets.html,,,,
+To request data visit: ,https://www.adventurescientists.org/access-data-sets.html,,,,,,
 ,,,,,,,
 variableName,dataType,description,controlledVocabularyValues,valuesList,missingValuesExplanation,collectionMethods,cleaningOrAnonymization
 id,Integer,Unique id of observation,None,None,None,None,None
