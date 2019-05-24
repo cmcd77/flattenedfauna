@@ -1,0 +1,38 @@
+variableName,dataType,description,controlledVocabularyValues,valuesList,missingValuesExplanation,collectionMethods,cleaningOrAnonymization
+key,String,unique identifier,None,None,None,Assigned,None
+timeCreated,Time,time observation added to database,None,None,None,Assigned,None
+dateCreated,Date,date observation added to database,None,None,None,Assigned,None
+latitude,Numeric,Latitude of event,Null,Null,None,None,None
+longitude,Numeric,Longitude of event,Null,Null,None,None,None
+altitude,Double,Altitude,None,None,None,None,None
+deviceId,String,Device ID,None,None,None,None,None
+entryId,String,Identifier for entry,None,None,None,None,None
+lastEdited,Date/Time,Last date edited,None,None,None,None,None
+timeUploaded,Date/Time,Time of upload from device,None,None,None,Assigned,None
+projectName,String,Project name for app,RoadkillGarneau,None,None,None,None
+photo,String,Location of photo,None,None,None,Assigned,None
+Date1,Date,Date of observation,None,None,None,None,None
+UniqueIdentifier,String,Identifier for observer,None,None,None,Assigned,None
+Precipitation,String,General precipitation,"Rain, None, Snow, Null","Rain, None, Snow, Null",None,None,None
+Temperature-Original,String,Temperature variable before corrections,None,None,None,None,None
+Temperature (F),Double,Temperature at observation,None,None,None,None,None
+State,String,State of Observation,None,None,None,None,Normalized
+County,String,County of observation,None,None,None,None,Normalized
+Town,String,Town of observation,None,None,None,None,Normalized
+LocationDetails,String,Details on the location,None,None,None,None,None
+RoadType,String,"What level road- state road, highway, etc.",None,None,None,None,None
+Speed,Integer,Posted road speed,None,None,None,None,None
+Time,String,Time of day,"Afternoon, Morning, Dusk, Null, Dawn",None,None,None,Deleted many repeated entries
+Taxon,String,Higher taxon,"Bird, Mammal, Reptile, Amphibian",None,None,None,None
+SpeciesName,String,Species name if possible,None,None,None,None,None
+Sex,String,Sex of animal,None,None,None,None,None
+Age,String,Age of animal,None,None,None,None,None
+Habitat,String,habitat for the observation,"Agriculture, MixedForest, Residential, Meadow, ConiferForest, Lake, MaintainedGrass, Shrubland, RiverStream",None,None,None,None
+Scavengers,String,List scavengers seen,None,None,None,None,None
+DurationOnRoad,String,How long the animal has been on road,"1day,2days,3days,4days,5PlusDays, Unknown, Null",None,None,None,None
+TravelInquiry,String,How often observer travels road,"Rarely, Monthly, Weekly, Daily, Null",None,None,None,None
+Traffic,String,Traffic level,"Light, Moderate, Heavy, Null",None,None,None,None
+LongtermRoadkillTrend,String,Description unknown,"5yrs, 10yrs, 15yrs, NoResponse, Null",None,None,None,None
+Season,String,Season of observation,"Fall, Winter, Summer, Spring, UnableToRespond, Null",None,None,None,None
+Hotspot,Yes/No,Are roadkills observed here frequently?,"Yes, No",None,None,None,None
+Notes,String,Observation notes,None,None,None,None,None
