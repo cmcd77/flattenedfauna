@@ -15,7 +15,7 @@ Replaced all empty cells of String format with 'Null'
 
 Replaced all empty cells of Numeric format with '-9999'
 
-Changed Data format to YYYY-MM-DD
+Changed Date format to YYYY-MM-DD
 
 Converted all values in 'Temperature' variable to Fahrenheit
 
