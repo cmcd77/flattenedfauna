@@ -1,26 +1,11 @@
 # Cleaning Log
 
 ### BCGlacierNationalParkWildlifeMortality1959-2017.csv
-#### 
+#### https://open.canada.ca/data/en/dataset/522ee7d2-4cf3-4c84-a55b-b03491ad62b0
 
-### ALL BELOW IS PLACE HOLDER
 
-Removed observations with no latitude or longitude
-
-Left observations with no species name because there are associated pictures that can be used for identification
-
-Replaced empty Date cells with value in corresponding 'Date Created' column
-
-Replaced all empty cells of String format with 'Null'
-
-Replaced all empty cells of Numeric format with '-9999'
+Removed obervations of 'Poached' or 'Destroyed'
 
 Changed Date format to YYYY-MM-DD
 
-Converted all values in 'Temperature' variable to Fahrenheit
-
-Removed Sting characters in 'Temperature' variable
-
-Escaped all special characters
-
-Need to: Normalize town and county and habitat
+Converted coordinates from UTM to Latitude and Longitude using ArcGIS
