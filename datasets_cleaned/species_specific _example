@@ -1,4 +1,5 @@
-## Dataset: ColoradoCougarRoadkill.csv
+## Dataset: ColoradoCougarRoadkill.csv [ColoradoCougarRoadkill.xlsx](https://github.com/amckennafoster/flattenedfauna/files/3219705/ColoradoCougarRoadkill.xlsx)
+
 ## Original download: https://cpw.state.co.us/Documents/Research/Mammals/Publications/Alldredge-Front-Range-Cougar-Progress-Report.pdf#search=roadkill
 
 Used [Tabula](https://tabula.technology/) tool to isolate tabular data from PDF
