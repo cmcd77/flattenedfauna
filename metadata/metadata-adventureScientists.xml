@@ -12,8 +12,8 @@
 <dcat:contactPoint>https://www.adventurescientists.org/access-data-sets.html</dcat:contactPoint>
 <dc:rightsHolder>https://www.adventurescientists.org/</dc:rightsHolder>
 <dwc:institutionID>5</dwc:institutionID>
-<dc:coverage.spatial>Global</dc:coverage.spatial>
-<dc:coverage.temporal>1989-</dc:coverage.temporal>
+<dc:coverageSpatial>Global</dc:coverageSpatial>
+<dc:coverageTemporal>1989-</dc:coverageTemporal>
 <dc:description>The Wildlife Conectivity Study collects roadkill observations from citizens.  The participants go through a vetting process.</dc:description>
 <dwc:samplingProtocol>Participants apply to submit data and once approved submit observations through iNaturalist.</dwc:samplingProtocol>
 <dc:license></dc:license>
