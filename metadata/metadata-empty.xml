@@ -12,8 +12,8 @@
 <dcat:contactPoint></dcat:contactPoint>
 <dc:rightsHolder></dc:rightsHolder>
 <dwc:institutionID></dwc:institutionID>
-<dc:coverageSpatial></dc:coverage.spatial>
-<dc:coverageTemporal></dc:coverage.temporal>
+<dc:coverageSpatial></dc:coverageSpatial>
+<dc:coverageTemporal></dc:coverageTemporal>
 <dc:description></dc:description>
 <dwc:samplingProtocol></dwc:samplingProtocol>
 <dc:license></dc:license>
