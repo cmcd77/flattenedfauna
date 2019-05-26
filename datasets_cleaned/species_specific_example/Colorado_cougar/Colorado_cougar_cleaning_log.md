@@ -1,12 +1,18 @@
-## Dataset: ColoradoCougarRoadkill.csv [ColoradoCougarRoadkill.xlsx](https://github.com/amckennafoster/flattenedfauna/files/3219705/ColoradoCougarRoadkill.xlsx)
+## Colorado Cougar Encounters Cleaning Log
 
-## Original download: https://cpw.state.co.us/Documents/Research/Mammals/Publications/Alldredge-Front-Range-Cougar-Progress-Report.pdf#search=roadkill
+### Dataset: ColoradoCougarRoadkill.csv [ColoradoCougarRoadkill.xlsx](https://github.com/amckennafoster/flattenedfauna/files/3219705/ColoradoCougarRoadkill.xlsx)
+
+### Original download: https://cpw.state.co.us/Documents/Research/Mammals/Publications/Alldredge-Front-Range-Cougar-Progress-Report.pdf#search=roadkill
 
 Used [Tabula](https://tabula.technology/) tool to isolate tabular data from PDF
+
 Filled down Cougar ID values
 Filled down Sex values
+
 Filtered by status = Dead
+
 Remove columns: Conditioning, Release Loc, and Capture columns
+
 Normalized Occurrence
 
 ```[
