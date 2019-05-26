@@ -1,5 +1,5 @@
-#Fixed improper utf-8 decoding
-#Normalized dates to ISO 8601
+## Fixed improper utf-8 decoding
+## Normalized dates to ISO 8601
 
 [
   {
