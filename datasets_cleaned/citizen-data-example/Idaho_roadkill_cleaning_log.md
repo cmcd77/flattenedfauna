@@ -1,7 +1,8 @@
-## Fixed improper utf-8 decoding
-## Normalized dates to ISO 8601
+## Idaho roadkill cleaning log
+### Fixed improper utf-8 decoding
+### Normalized dates to ISO 8601
 
-[
+```[
   {
     "op": "core/text-transform",
     "description": "Text transform on cells in column Note using expression grel:value.replace(\"â€™\",\"'\")",
@@ -553,4 +554,4 @@
     "repeat": false,
     "repeatCount": 10
   }
-]
+]```
