@@ -1,6 +1,6 @@
 ## Colorado Cougar Encounters Cleaning Log
 
-### Dataset: ColoradoCougarRoadkill.csv [ColoradoCougarRoadkill.xlsx](https://github.com/amckennafoster/flattenedfauna/files/3219705/ColoradoCougarRoadkill.xlsx)
+### Dataset: ColoradoCougarRoadkill.csv 
 
 ### Original download: https://cpw.state.co.us/Documents/Research/Mammals/Publications/Alldredge-Front-Range-Cougar-Progress-Report.pdf#search=roadkill
 
