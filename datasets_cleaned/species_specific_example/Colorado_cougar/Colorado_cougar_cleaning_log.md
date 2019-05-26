@@ -7,13 +7,14 @@
 Used [Tabula](https://tabula.technology/) tool to isolate tabular data from PDF
 
 Filled down Cougar ID values
+
 Filled down Sex values
 
 Filtered by status = Dead
 
 Remove columns: Conditioning, Release Loc, and Capture columns
 
-Normalized Occurrence
+Normalized Occurrence values
 
 ```[
   {
