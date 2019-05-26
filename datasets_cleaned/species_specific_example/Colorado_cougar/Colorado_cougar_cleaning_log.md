@@ -9,7 +9,7 @@ Filtered by status = Dead
 Remove columns: Conditioning, Release Loc, and Capture columns
 Normalized Occurrence
 
-[
+```[
   {
     "op": "core/text-transform",
     "engineConfig": {
@@ -1225,4 +1225,4 @@ Normalized Occurrence
     },
     "description": "Remove rows"
   }
-]
+]``
